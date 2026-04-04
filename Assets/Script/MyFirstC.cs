@@ -9,11 +9,8 @@ public class MyFirstC : MonoBehaviour
     {
         
 
-
-        
-
-
-                
+       
+            
     }
 
 
